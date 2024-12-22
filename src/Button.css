@@ -1,0 +1,16 @@
+.button {
+  width: 100%;
+  height: 40px;
+  background: #000;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+.button:hover,
+.button:focus {
+  outline: 3px solid #22f4fd;
+}
